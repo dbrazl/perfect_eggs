@@ -1,16 +1,16 @@
-# perfect_eggs
+# PERFECT.eggs
 
-A new Flutter project.
+An app to cook eggs with your favorite egg yolk mode.
+Powered by Flutter.
 
-## Getting Started
+#### Home
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/52254578/96359734-81be7100-10ec-11eb-8031-5bd2b330fd4a.png" width="323" height="676" />
 
-A few resources to get you started if this is your first Flutter project:
+#### Timer
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://user-images.githubusercontent.com/52254578/96359736-82ef9e00-10ec-11eb-9e9d-c4b781c1a79d.png" width="323" height="676" />
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Result
+
+<img src="https://user-images.githubusercontent.com/52254578/96359762-df52bd80-10ec-11eb-9a01-002a5db9a5ea.png" width="323" height="676" />
